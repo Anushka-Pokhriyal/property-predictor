@@ -1,10 +1,16 @@
-ProPredict NCR — Delhi NCR Property Price Predictor
+# ProPredict NCR — Delhi NCR Property Price Predictor
+
 A full-stack web app that predicts property prices across Delhi, Gurgaon, Noida and the entire NCR region using an AI-powered pricing model.
 MERN Stack
-Demo
-Frontend: https://your-app.vercel.app
-Backend API: https://your-api.onrender.com/api/health
-Property Structure
+
+## Demo
+
+Frontend: 
+
+Backend API: 
+
+## Property Structure
+```bash 
 property-predictor/
 ├── backend/
 │   ├── server.js              # Express entry point
